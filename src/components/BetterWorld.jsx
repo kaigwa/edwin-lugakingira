@@ -59,7 +59,6 @@ function BetterWorld(){
               </m.div>
             )}. Most of trees seedlings we are receiving from <a className='tfs' href="https://www.tfs.go.tz/index.php/en" target='_blank' rel="noreferrer">Tanzania Forest Service Agency</a>. As part of World citizens I have this obligation to participate in making our world a better place to live for us and future generation. So me and my team we are aiming at planting more than 1500 trees in 5 years which we already planted 100+ trees on our farm and later will be somewhere else. Through collaboration with you through work I believe we can achieve something <span className='w'>BETTER</span>  for our <span className='w'>WORLD!</span> Thank you taking care our planet. 
       </p> 
-      <p>fire</p>
       <br />
     
       <div className='c'>
